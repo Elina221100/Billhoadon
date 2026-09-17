@@ -30,10 +30,11 @@ if "invoices" not in st.session_state:
 # DANH SÁCH MENU
 # ==============================
 foods = {
-    "Pizza Hải Sản": 120000,
+    "Pizza Hải Sản": 190000,
     "Mì Ý Bò Bằm": 50000,
     "Burger Gà": 65000,
     "Salad Trộn": 50000,
     "Bít Tết Bò Mỹ": 250000,
     "Sườn Nướng BBQ": 180000,
     "Cánh Gà Chiên Mắm": 75000
+    "Lẩu Cá":199000,
