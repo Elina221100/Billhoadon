@@ -38,3 +38,4 @@ foods = {
     "Sườn Nướng BBQ": 180000,
     "Cánh Gà Chiên Mắm": 75000
     "Lẩu Cá":199000,
+    "Lẩu Cua Đồng": 299000,
